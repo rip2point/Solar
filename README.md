@@ -1,5 +1,5 @@
 # Solar-FE
-Solar is a "FE" (Filtering Enabled) "Lua" project, for the popular game "Roblox", Solar will be updated frequently.
+Solar is a "FE" (Filtering Enabled) "Lua" project, for the popular game "Roblox", Solar will be updated frequently when released.
 
 ## Use
 Solar is not open source and will never be, distributing and using is permitted but MUST be credited.
